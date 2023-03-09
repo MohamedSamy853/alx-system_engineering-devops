@@ -8,3 +8,4 @@ move files
 Task 8
 delete folders
 backward 
+print list files for two dir
