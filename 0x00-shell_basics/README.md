@@ -10,3 +10,4 @@ delete folders
 backward 
 print list files for two dir
 type of file
+symbolic link 
