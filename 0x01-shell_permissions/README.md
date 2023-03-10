@@ -9,3 +9,4 @@ task-6 give multiple permission to file
 task-7 give for all permission
 task-8 no permission for all except user
 task-9 give specified permission
+task-10 give perissionthe same file 
