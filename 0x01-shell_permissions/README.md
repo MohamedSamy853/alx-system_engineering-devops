@@ -5,3 +5,4 @@ task-2 print group name
 task-3 change file to owner
 task-4 create an empty file
 task-5 change mode for file
+task-6 give multiple permission to file
